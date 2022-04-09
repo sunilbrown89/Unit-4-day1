@@ -1,0 +1,26 @@
+
+
+.buttons{
+  width: 20%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+
+.buttons button{
+  padding: 10px 20px;
+  width: 180px;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 17px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.App{
+  margin-left: 20px;
+
+}
